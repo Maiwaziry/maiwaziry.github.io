@@ -1,15 +1,14 @@
 ## Welcome!
 
 #### Bio
-
+My name is Mai, and I am a computational science researcher. I use different computational methods to understand the underlying causal mechanisms between urban planning, the built environment, human perception, and the connection of that with the environment. As a side note, I am an avid runner and fencer!
 
 ### Research interests:
 
-## Education
-- Ph.D., Public Policy | UMass Boston (_Present_)			       		
-- M.S., Urban Informatics	| Northeastern University (_December 2024_)
-- M.S., Business Information Systems | 	Cambridge College (_2021_)		        		
-- B.S., Business Information Systems | Cairo University (_May 2016_)
+- Data and the Urban Environment
+- Causal Inference
+- Human Perception
+- Human Geography
 
 ## Projects
 ### Environmental Hazards Mapping In Major Cities In United States
@@ -25,3 +24,8 @@ Map of street density and tree canopy in two cities from the sample of cities in
 In this project, we explored the causal mechanisms underlying the exposure to air pollution and how this is connected to bike ridership in Boston. Many factors, including the built environment, such as street walkability and the readiness of infrastructure, contribute to increased bike rides -- but on the other hand, people usually ride bikes in areas in city centers, which makes them highly exposed to air pollution. 
 
 ## Manuscript: Underreview  
+
+## Education       		
+- M.S., Urban Informatics	| Northeastern University (_December 2024_)
+- M.S., Business Information Systems | 	Cambridge College (_2021_)		        		
+- B.S., Business Information Systems | Cairo University (_May 2016_)
