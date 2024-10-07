@@ -10,6 +10,13 @@ My name is Mai, and I am a computational science researcher. I use different com
 - Human Perception
 - Human Geography
 
+### Skills
+
+- Machine Learning
+- Deep Learning
+- Spatial Analysis
+- Network Analysis 
+
 ## Projects
 ### Environmental Hazards Mapping In Major Cities In United States
 In this project, we investigated the built environment's impact on clustering hazards in major cities in the United States. Most notably, the infrastructure of streets alongside the tree canopy together contribute to inequitable clusters of hazards where disadvantaged communities exist.
