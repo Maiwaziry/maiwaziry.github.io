@@ -20,7 +20,7 @@ In this project, we investigated the built environment's impact on clustering ha
 
 Manuscript: Underreview  
 
-Map of infrastructure and hazards in two cities from the sample of cities in the study. On the top is Jersey City, while at the bottom is Oakland City in California.
+Map of infrastructure hazards and income distribution in two cities from the sample of cities in the study. On the top is Jersey City, while at the bottom is Oakland City in California.
 
 ![Hazards Study](assets/hazards_map.jpg)
 
