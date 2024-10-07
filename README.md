@@ -41,5 +41,5 @@ Richard Lowell's public service fellow at Massport Authority: I spent the fellow
 
 ## Education       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)
-- M.S., Business Information Systems | 	Cambridge College (_August 2021_)		        		
-- B.S., Business Information Systems | Cairo University (_May 2016_)
+- MA., Business Information Systems | 	Cambridge College (_August 2021_)		        		
+- BA., Business Information Systems | Cairo University (_May 2016_)
