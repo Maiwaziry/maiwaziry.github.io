@@ -1,7 +1,12 @@
-#### Technical Skills: R, SQL, Python, ARCGIS, mapbox
+## Welcome!
+
+#### Bio
+
+
+### Research interests:
 
 ## Education
-			       		
+- Ph.D			       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)	 			        		
 - B.S., Business Information System | Cairo University (_May 2016_)
 
@@ -13,7 +18,6 @@ In this project, we investigated the built environment's impact on clustering ha
 
 Map of street density and tree canopy in two cities from the sample of cities in the study. On the top is Jersey City, while at the bottom is Oakland City in California.
 ![Hazards Study](assets/hazards_map.jpg)
-
 
 
 ### Impact of Societal and Environmental Changes on Bike-Sharing Systems
