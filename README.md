@@ -10,12 +10,9 @@ My name is Mai, and I am a computational science researcher. I use different com
 - Human Perception
 - Human Geography
 
-### Skills
+### Methods
 
-- Machine Learning
-- Deep Learning
-- Spatial Analysis
-- Network Analysis 
+Machine Learning, Deep Learning, Spatial Anlysis, Network Analysis and Causal Inference.
 
 ## Projects
 ### Environmental Hazards Mapping In Major Cities In United States
