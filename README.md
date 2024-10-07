@@ -32,5 +32,5 @@ Distribution of bike trips per capita in Boston.
 
 ## Education       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)
-- M.S., Business Information Systems | 	Cambridge College (_2021_)		        		
+- M.S., Business Information Systems | 	Cambridge College (_ August 2021_)		        		
 - B.S., Business Information Systems | Cairo University (_May 2016_)
