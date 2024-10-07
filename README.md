@@ -11,7 +11,7 @@ In this project, we investigated the built environment's impact on clustering ha
 
 Manuscript: Underreview  
 
-![Hazards Study](/assets/img/hazards_map.jpg)
+![Hazards Study](assets/hazards_map.jpg)
 
 ### Impact of Societal and Environmental Changes on Bike-Sharing Systems
 
