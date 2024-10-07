@@ -14,7 +14,9 @@ In this project, we investigated the built environment's impact on clustering ha
 Map of street density and tree canopy in two cities from the sample of cities in the study. On the top is Jersey City, while at the bottom is Oakland City in California.
 ![Hazards Study](assets/hazards_map.jpg)
 
+
+
 ### Impact of Societal and Environmental Changes on Bike-Sharing Systems
+In this project, we explored the causal mechanisms underlying the exposure to air pollution and how this is connected to bike ridership in Boston. Many factors, including the built environment, such as street walkability and the readiness of infrastructure, contribute to increased bike rides -- but on the other hand, people usually ride bikes in areas in city centers, which makes them highly exposed to air pollution. 
 
-### Publications 
-
+## Manuscript: Underreview  
