@@ -9,7 +9,7 @@
 ### Environmental Hazards Mapping In Major Cities In United States
 In this project, we investigated the built environment's impact on clustering hazards in major cities in the United States. Most notably, the infrastructure of streets alongside the tree canopy together contribute to inequitable clusters of hazards where disadvantaged communities exist.
 
-##Manuscript: Under review  
+## Manuscript: Underreview  
 
 ![Hazards Study](assets/hazards_map.jpg)
 
