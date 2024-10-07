@@ -26,6 +26,10 @@ In this project, we explored the causal mechanisms underlying the exposure to ai
 
 ## Manuscript: Underreview  
 
+Distribution of bike trips per capita in Boston.
+
+![Bike Study](assets/bike_trips.jpeg)
+
 ## Education       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)
 - M.S., Business Information Systems | 	Cambridge College (_2021_)		        		
