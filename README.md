@@ -3,9 +3,9 @@
 #### Bio
 My name is Mai, and I am a computational science researcher. I use different computational methods to understand the underlying causal mechanisms between urban planning, the built environment, human perception, and the connection of that with the environment. As a side note, I am an avid runner and fencer!
 
-### Research interests:
+### Research interests
 
-- Data and the Urban Environment
+- Data and Urban Environment
 - Causal Inference
 - Human Perception
 - Human Geography
