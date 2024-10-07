@@ -6,9 +6,10 @@
 ### Research interests:
 
 ## Education
-- Ph.D			       		
-- M.S., Urban Informatics	| Northeastern University (_December 2024_)	 			        		
-- B.S., Business Information System | Cairo University (_May 2016_)
+- Ph.D., Public Policy | UMass Boston (_Present_)			       		
+- M.S., Urban Informatics	| Northeastern University (_December 2024_)
+- M.S., Business Information Systems | 	Cambridge College (_2021_)		        		
+- B.S., Business Information Systems | Cairo University (_May 2016_)
 
 ## Projects
 ### Environmental Hazards Mapping In Major Cities In United States
