@@ -26,15 +26,10 @@ In this project, we explored the causal mechanisms underlying the exposure to ai
 
 ## Manuscript: Underreview  
 
-Distribution of bike trips per capita in Boston.
-
-![Bike Study](assets/bike_trips.jpeg)
-
-
 ## Fellowships
 Richard Lowell's public service fellow at Massport Authority: I spent the fellowship with the urban development team at Massport. During my fellowship, I helped them create a dashboard to help in strategic planning for climate change adaptations for their buildings. In this dashboard, I use data from different sources to map their building's heat, tree canopy, sea level rise, and floor elevation to identify buildings at risk.
 
-[Dashboard]((https://www.arcgis.com/apps/dashboards/23c714f5a82b48229705897be7b4252c))
+[Dashboard][https://www.arcgis.com/apps/dashboards/23c714f5a82b48229705897be7b4252c]
 
 ## Education       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)
