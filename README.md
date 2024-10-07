@@ -12,7 +12,7 @@ My name is Mai, and I am a computational science researcher. I use different com
 
 ### Methods
 
-Machine Learning, Deep Learning, Spatial Anlysis, Network Analysis and Causal Inference.
+Causal Inference, Machine Learning, Deep Learning, Spatial Analysis and Network Analysis.
 
 ## Projects
 ### Environmental Hazards Mapping In Major Cities In United States
