@@ -7,8 +7,8 @@ My name is Mai, and I am a computational social science researcher. I use differ
 
 - Data and Urban Environment
 - Causal Inference 
-- Human Perception
-- Human Geography
+- Behvioural Economics 
+- Human Geography and Preception
 
 ### Methods
 
