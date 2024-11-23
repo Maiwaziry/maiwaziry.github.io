@@ -25,6 +25,7 @@ In this project, we explored the causal mechanisms underlying the exposure to ai
 - Accessibility: The uneven spatial distribution of bike stations leads to unequal access. Assessing the demand and need for bike infrastructure is crucial to address these disparities.
 - Equity: Marginalized groups often have less access to bike stations in their communities. Inclusive community engagement practices should be prioritized when planning new bike station locations.
 
+![Bike Study](assets/Map.jpg)
 
 ### Environmental Hazards Mapping In Major Cities In United States
 In this project, we investigated the built environment's impact on clustering hazards in major cities in the United States. Most notably, the infrastructure of streets alongside the tree canopy together contribute to inequitable clusters of hazards where disadvantaged communities exist.
