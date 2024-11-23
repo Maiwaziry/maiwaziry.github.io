@@ -14,7 +14,7 @@ My name is Mai, and I am a computational social science researcher. I use differ
 
 Causal Inference, Machine Learning, Deep Learning, Spatial Analysis and Network Analysis.
 
-## Projects
+***Projects***
 
 
 ***Impact of Societal and Environmental Changes on Bike-Sharing Systems***
