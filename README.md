@@ -17,7 +17,7 @@ Causal Inference, Machine Learning, Deep Learning, Spatial Analysis and Network 
 ***Projects***
 
 
-***Impact of Societal and Environmental Changes on Bike-Sharing Systems***
+Impact of Societal and Environmental Changes on Bike-Sharing Systems:
 
 In this project, we explored the causal mechanisms underlying the exposure to air pollution and how this is connected to bike ridership in Boston. Many factors, including the built environment, such as street walkability and the readiness of infrastructure, contribute to increased bike rides -- but on the other hand, people usually ride bikes in areas in city centers, which makes them highly exposed to air pollution. 
 
@@ -31,7 +31,7 @@ In this project, we explored the causal mechanisms underlying the exposure to ai
 
 
 
-***Environmental Hazards Mapping In Major Cities In United States***
+Environmental Hazards Mapping In Major Cities In United States:
 
 In this project, we investigated the built environment's impact on clustering hazards in major cities in the United States. Most notably, the infrastructure of streets alongside the tree canopy together contribute to inequitable clusters of hazards where disadvantaged communities exist.
 
