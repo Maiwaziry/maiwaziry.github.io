@@ -6,8 +6,8 @@ My name is Mai, and I am a computational social science researcher. I use differ
 ## Research interests
 
 - Data and Urban Environment
-- Causal Inference 
-- Behvioural Economics 
+- Spatial Causal Inference 
+- Behavioural Economics 
 - Human Geography and Preception
 
 ## Methods
