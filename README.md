@@ -3,8 +3,6 @@
 ## Bio
 My name is Mai, and I am a PhD student at UMB. I use different computational methods to understand the underlying causal mechanisms between urban planning,
 the built environment and the connection of that with the environment. As a side note, I am an avid runner and fencer!
-
-- Email: mai.waziry001@umb.edu
   
 - [Bluesky](https://bsky.app/profile/maiwaziry.bsky.social)
 
@@ -40,3 +38,5 @@ Summer Research Enrichment Award: 2024
 M.S., Urban Informatics	-- Northeastern University 
 MA., Business Information Systems -- Cambridge College 	        		
 BA., Business Information Systems -- Cairo University 
+
+- Email: mai.waziry001@umb.edu
