@@ -2,6 +2,4 @@ title: Mai Waziry
 #logo:  # Replace with your logo path, or remove the line if no logo
 #description:   # Optional, but recommended
 #show_downloads: true
-
-remote_theme: "pages-themes/minimal"
-
+theme: jekyll-theme-cayman
