@@ -3,6 +3,5 @@ title: Mai Waziry
 #description:   # Optional, but recommended
 #show_downloads: true
 
-theme: jekyll-theme-minimal
-
+remote_theme: "pages-themes/minimal"
 
