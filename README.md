@@ -30,8 +30,9 @@ the built environment and the connection of that with the environment. As a side
 
 ## Grants & Fellowships
 
-Richard Lowell's public service fellow : 2024
-Summer Research Enrichment Award: 2024
+- Richard Lowell's public service fellow : 2024
+
+- Summer Research Enrichment Award: 2024
 
 ## Education       	
 
