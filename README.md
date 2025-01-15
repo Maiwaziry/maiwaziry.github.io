@@ -1,7 +1,8 @@
 ## Welcome!
 
 ## Bio
-My name is Mai, and I am a PhD student at UMB. I use different computational methods to understand the underlying causal mechanisms between urban planning, the built environment and the connection of that with the environment. As a side note, I am an avid runner and fencer!
+My name is Mai, and I am a PhD student at UMB. I use different computational methods to understand the underlying causal mechanisms between urban planning,
+the built environment and the connection of that with the environment. As a side note, I am an avid runner and fencer!
 
 ## Research interests
 
@@ -30,6 +31,6 @@ Summer Research Enrichment Award: 2024
 
 ## Education       	
 
-- M.S., Urban Informatics	| Northeastern University (_December 2024_)
-- MA., Business Information Systems | 	Cambridge College (_August 2021_)		        		
-- BA., Business Information Systems | Cairo University (_May 2016_)
+- M.S., Urban Informatics	| Northeastern University 
+- MA., Business Information Systems | 	Cambridge College 	        		
+- BA., Business Information Systems | Cairo University 
