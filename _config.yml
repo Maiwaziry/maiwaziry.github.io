@@ -1,6 +1,7 @@
 
 title: Mai Waziry
-logo: /assets/IMG_8245.jpg  # Ensure this path points to your logo
+logo: maiwaziry.github.io/assets/IMG_8245.jpg
+  # Ensure this path points to your logo
 #description: Computational Social Science Researcher
 show_downloads: false
 theme: jekyll-theme-modernist
