@@ -12,18 +12,24 @@ My name is Mai, and I am a PhD student at UMB. I use different computational met
 
 
 ## News 
-
+- I got accepted to summer institute in computational social science (SICSS) - UPenn -- 2024
+- I was awarded summer enrichment award for my research from university of massachusetts  -- 2024
+  
 ## Publications 
 
+-	Variation of Air Pollution Exposure Effects According to Travel Time Among Bike Riders - In preparation 
+-	Effect of Human Mobility on Air pollution Exposure – In preparation
+-	Multihazard Exposure and Environmental Injustice – Under review 
+  Authors: Daniel T. O’Brien, Joshua Rosen, Mai Waziry, Takahiro Yabe, Esteban Moro
 
-**Impact of Societal and Environmental Changes on Bike-Sharing Systems** 
 
+## Grants & Fellowships
 
-## Fellowships
+Richard Lowell's public service fellow : 2024
+Summer Research Enrichment Award: 2024
 
-Richard Lowell's public service fellow at Massport Authority: I spent the fellowship with the urban development team at Massport. During my fellowship, I created a dashboard to help in strategic planning for climate change adaptations for their buildings. In this dashboard, I utilized data from different sources to map the distribution of heat, tree canopy, sea level rise, and floor elevation to identify buildings at risk.
+## Education       	
 
-## Education       		
 - M.S., Urban Informatics	| Northeastern University (_December 2024_)
 - MA., Business Information Systems | 	Cambridge College (_August 2021_)		        		
 - BA., Business Information Systems | Cairo University (_May 2016_)
