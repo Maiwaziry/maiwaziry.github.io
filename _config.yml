@@ -2,4 +2,7 @@ title: Mai Waziry
 #logo:  # Replace with your logo path, or remove the line if no logo
 #description:   # Optional, but recommended
 #show_downloads: true
+logo: /assets/IMG_8245.jpg
+#description: text below image
+show_downloads: false
 theme: jekyll-theme-cayman
