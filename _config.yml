@@ -1,10 +1,8 @@
 title: Mai Waziry
-logo:  # Replace with your logo path, or remove the line if no logo
-description:   # Optional, but recommended
-show_downloads: true
+#logo:  # Replace with your logo path, or remove the line if no logo
+#description:   # Optional, but recommended
+#show_downloads: true
 
-remote_theme: pages-themes/architect@v0.2.0
-
-plugins:
+theme: jekyll-theme-minimal
 
 
