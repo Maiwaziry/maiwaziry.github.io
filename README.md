@@ -36,5 +36,7 @@ Summer Research Enrichment Award: 2024
 ## Education       	
 
 M.S., Urban Informatics	-- Northeastern University 
-MA., Business Information Systems -- Cambridge College 	        		
+
+MA., Business Information Systems -- Cambridge College 	 
+
 BA., Business Information Systems -- Cairo University 
