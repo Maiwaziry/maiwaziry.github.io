@@ -23,7 +23,7 @@ the built environment and the connection of that with the environment. As a side
 ## Publications 
 
 -	Variation of Air Pollution Exposure Effects According to Travel Time Among Bike Riders - In preparation 
--	Effect of Human Mobility on Air pollution Exposure – In preparation
+-	Effect of Human Behviour on Air Pollution Exposure – In preparation 
 -	Advancing Transdisciplinary Environmental Justice in Decision Making and Decision Modeling for Climate Adaptations - In preparation
   Authors: Michael Johnson, Amit Patel,Elham Hessari, Mai Waziry, Georgia Mavrommati, Paul Kirshen
 -	Multihazard Exposure and Environmental Injustice – Under review 
