@@ -16,6 +16,7 @@ the built environment and the connection of that with the environment. As a side
 
 
 ## News 
+- I was awarded a small grant for my research from UMass system - 2025
 - I got accepted to summer institute in computational social science (SICSS) - UPenn -- 2024
 - I was awarded summer enrichment award for my research from university of massachusetts  -- 2024
   
