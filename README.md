@@ -12,7 +12,7 @@ My name is Mai, and I am a PhD student at the University of Massachusetts Boston
 
 - Neighborhood Change
 - Urban Dynamics
-- Spatial Causal Inferenc 
+- Spatial Causal Inference 
 - Computational Social Science
 - Transportation  
 
