@@ -2,7 +2,7 @@
 
 ## Bio
 
-My name is Mai, and I am a PhD student at the University of Massachusetts Boston. I am curious about understanding the relationship between neighborhood change,physical environments, amenities, through the application of different computational methods.As a side note, I am an avid runner and fencer!
+My name is Mai, and I am a PhD student at the University of Massachusetts Boston. I am curious about understanding the relationship between neighborhood change, physical environments and amenities. Through the application of different computational methods.As a side note, I am an avid runner and fencer!
 
 
 
