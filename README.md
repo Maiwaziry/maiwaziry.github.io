@@ -2,19 +2,20 @@
 
 ## Bio
 
-My name is Mai, and I am a PhD student at the University of Massachusetts Boston. I am curious about understanding the relationship between neighborhood change, physical environments and amenities. Through the application of different computational methods.As a side note, I am an avid runner and fencer!
-
+My name is Mai, and I am a PhD student studying at the University of Massachusetts Boston. My core training is in urban informatics. My research focuses on urban neighborhoods. I am broadly curious to understand the relationship between places and people. The first part of my dissertation research focuses on understanding neighborhood change through investigating physical, social, environmental, and cultural angles. The second part focuses on understanding how daily life is changing in neighborhoods in the digital age. I am passionate about leveraging different computational methods using ML/AI. I also utilize digital ethnography to understand the neighborhood as an experience. In my free time, I run, fence, surf, do crafts, and read for fun!   
 
 
 - [Github](https://github.com/Maiwaziry)
+- [bluesky](https://bsky.app/profile/maiwaziry.bsky.social)
 
 ## Research interests
 
 - Neighborhood Change
 - Urban Dynamics
-- Spatial Causal Inference 
+- Environmental Justice
+- Spatial Causal Inference
 - Computational Social Science
-- Transportation  
+ 
 
 
 ## News 
